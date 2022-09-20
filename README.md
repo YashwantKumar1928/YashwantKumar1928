@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YashwantKumar1928
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 
 
 <!---
